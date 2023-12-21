@@ -23,6 +23,8 @@ print(i)
 ```
 ## Output:
 <img width="397" alt="image" src="https://github.com/EPriyadharshini/INVERSE-OF-A-MATRIX/assets/144870831/889e9c1c-f5d5-4cae-9f76-fe1e219cea78">
+
+
 ## Result:
 Thus the inverse of given matrix is successfully solved using python program
 
